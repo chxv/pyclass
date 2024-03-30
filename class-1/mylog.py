@@ -2,7 +2,7 @@ import logging
 import logging.handlers
 import os
 
-log_file_name = 'log/my.log'
+log_file_name = '../log/my.log'
 
 
 # 日志打印的过滤器，用于修改被打印的日志内容
